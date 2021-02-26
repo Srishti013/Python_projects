@@ -1,2 +1,2 @@
 # Python_projects
-I have mad this repository to add all my small python projects.
+I have made this repository to add all my small python projects.
